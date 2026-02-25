@@ -244,7 +244,7 @@ Best solution detail [Rao2 (no kNNC)]:
 See LICENSE.
 
 ## Contributing
-We welcome contributions! Please see CONTRIBUTING for guidelines. Check how D-vine copula algorithm is applied for seismic reliability analysis in reference [4] for example.
+We welcome contributions! Please see CONTRIBUTING for guidelines.
 
 ## Support
 For questions, issues, or feature requests contact me directly through email at gpapazafeiropoulos@yahoo.gr
